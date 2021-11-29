@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background-color: whitesmoke;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+
+h1 {
+    font-family: 'Lato', sans-serif; 
+    font-size: 30px;
+    text-align: center; 
+    color: slategray;
+    margin-top: 2px;
+    margin-bottom: 5px;
+}
+
+p {
+    font-family: 'Lato', sans-serif; 
+    text-align: center; 
+    color:  slateblue;
+}
+
+a {
+    color: rgb(4, 141, 253);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+a:hover {
+    text-decoration: underline;
+}

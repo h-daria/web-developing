@@ -1,0 +1,35 @@
+main {
+    background-color: rgb(233, 224, 224);
+    width: 700px;
+    margin: 100px auto 40px auto;
+    padding: 20px;
+    border: 3px solid rgb(58, 123, 177);
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px rgba(91, 158, 212, 1);
+}
+
+img {
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    border-bottom-color: rgb(91, 158, 212); 
+    border-bottom-style: groove;
+    border-left-color: rgb(91, 158, 212);
+    border-left-style: groove;
+    margin-top: -100px;
+}
+
+span {
+    color: rgb(116, 163, 211);
+}
+
+#learning-basics {
+    color: rgb(57, 44, 136);
+    font-weight: bold;
+    font-size: 25px;
+}
+
+footer {
+    font-size: 18px;
+    font-weight: bold;
+}
